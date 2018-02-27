@@ -1,0 +1,37 @@
+/* add any custom style rules here */
+#table.hide1 tr > *:nth-child(1) {
+    display: none;
+}
+
+#table.hide2 tr > *:nth-child(2) {
+    display: none;
+}
+
+#table.hide3 tr > *:nth-child(3) {
+    display: none;
+}
+#table.hide4 tr > *:nth-child(4) {
+    display: none;
+}
+
+#table.hide5 tr > *:nth-child(5) {
+    display: none;
+}
+
+#table.hide6 tr > *:nth-child(6) {
+    display: none;
+}
+#table.hide7 tr > *:nth-child(7) {
+    display: none;
+}
+#table.hide8 tr > *:nth-child(8) {
+    display: none;
+}
+
+th#sales {
+    text-align: right;
+}
+
+th#tickets {
+    text-align: right;
+}
